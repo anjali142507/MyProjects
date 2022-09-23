@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anjali
 - 👀 I’m interested in ... Coding 
 - 🌱 I’m currently learning ...Java programming language 
-- 💞️ I’m looking to collaborate on ...Github
-- 📫 How to reach me ...On Instagram 
+- 📫 How to reach me ...DM me on Instagram - @anjalii.14
 
 <!---
 anjali142507/anjali142507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
